@@ -14,6 +14,12 @@
     "categories": {
       "auth": {
         "personalwebsitereactcf4f6010": {}
+      },
+      "api": {
+        "personalwebsitereact": {}
+      },
+      "storage": {
+        "imagestorage": {}
       }
     }
   }
